@@ -14,7 +14,7 @@ License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
-[EL-Gallery](ericlowry.fr/en/development/#el-gallery "EL-Gallery, the lightweight wordpress gallery") is an untra-lightweight javascript & css gallery replacement for Wordpress.
+EL-Gallery is an elegant untra-lightweight javascript & css gallery replacement for Wordpress.
 
 
 == Description ==
