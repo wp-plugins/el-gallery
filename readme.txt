@@ -28,9 +28,9 @@ I am not a professional developer, but there were no plugins that were both simp
 
 EL-Gallery should function properly on any browser that supports both CSS3 and javascript.
 
-If you have any suggestions or questions, please contact me directly, or propose changes on this project’s GitHub page.
+If you have any suggestions or questions, please [contact me](http://ericlowry.fr/en/contact/ "Contact Eric Lowry (Plugin Author)") directly, or propose changes on [this project's GitHub page](https://github.com/ELowry/EL-Gallery "EL-Gallery on GitHub).
 
-This plugin is designed to function on any type of machine, and for it to best function on mobile devices, we reccomend you install the WP Mobile Detect plugin.
+This plugin is designed to function on any type of machine, and for it to best function on mobile devices, we reccomend you install the [WP Mobile Detect](http://wordpress.org/plugins/wp-mobile-detect/ "Plugin : WP Mobile Detect") plugin.
 
 EL-Gallery is currently available in both English and French.
 
@@ -41,7 +41,7 @@ There you will be able to modify the duration of each slide as well as a few oth
 
 * EL-Gallery uses responsive design, and you may wish to choose a specific page width at which the thumbnails will go from 8 per line to 5 per line.
 * You may wish to disable the links on a gallery’s images.
-* If you have installed the WP Mobile Detect plugin, don’t forget to activate the corresponding option so images may display in a lighter format when on mobile devices.
+* If you have installed the [WP Mobile Detect](http://wordpress.org/plugins/wp-mobile-detect/ "Plugin : WP Mobile Detect") plugin, don’t forget to activate the corresponding option so images may display in a lighter format when on mobile devices.
 
 = Examples =
 
