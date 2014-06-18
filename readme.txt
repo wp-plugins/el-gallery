@@ -43,6 +43,10 @@ There you will be able to modify the duration of each slide as well as a few oth
 * You may wish to disable the links on a gallery’s images.
 * If you have installed the WP Mobile Detect plugin, don’t forget to activate the corresponding option so images may display in a lighter format when on mobile devices.
 
+= Examples =
+
+* http://ericlowry.fr/en/
+* http://alpha-gamma.fr/
 
 == Installation ==
 
@@ -69,4 +73,4 @@ Your gallery shortcodes will automatically be updated to EL-Galleries !
 
 == Donations ==
 
-http://ericlowry.fr/
+http://ericlowry.fr/en/
