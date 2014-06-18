@@ -1,4 +1,4 @@
-=== EL-Gallery ===
+Ôªø=== EL-Gallery ===
 
 Contributors: Eric Lowry
 Plugin Name: EL-Gallery
@@ -19,7 +19,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-[EL-Gallery](ericlowry.fr/en/development/#el-gallery "EL-Gallery, the lightweight wordpress gallery") will simply adapt to your websiteís width without any fuss or hours of configuration.
+[EL-Gallery](ericlowry.fr/en/development/#el-gallery "EL-Gallery, the lightweight wordpress gallery") will simply adapt to your website‚Äôs width without any fuss or hours of configuration.
 
 A few simple options are at your disposal if you wish, but the plugin will work perfectly well as soon as it is installed.
 
@@ -29,7 +29,7 @@ I am not a professional developer, but there were no plugins that were both simp
 
 EL-Gallery should function properly on any browser that supports both CSS3 and javascript.
 
-If you have any suggestions or questions, please contact me directly, or propose changes on this projectís GitHub page.
+If you have any suggestions or questions, please contact me directly, or propose changes on this project‚Äôs GitHub page.
 
 This plugin is designed to function on any type of machine, and for it to best function on mobile devices, we reccomend you install the WP Mobile Detect plugin.
 
@@ -37,11 +37,11 @@ EL-Gallery is currently available in both English and French.
 
 = Configuration =
 
-Once installed, you will find the configuration menu for EL-Gallery in the ìAppearanceî section of  your wordpress administration page.
+Once installed, you will find the configuration menu for EL-Gallery in the ‚ÄúAppearance‚Äù section of  your wordpress administration page.
 
 There you will be able to modify the duration of each slide as well as a few other functions:
 
-* EL-Gallery uses responsive design, and you may wish to choose a specific page width at which the thumbnails will go from 8 per line to 5 per line. * You may wish to disable the links on a galleryís images. * If you have installed the WP Mobile Detect plugin, donít forget to activate the corresponding option so images may display in a lighter format when on mobile devices.
+* EL-Gallery uses responsive design, and you may wish to choose a specific page width at which the thumbnails will go from 8 per line to 5 per line. * You may wish to disable the links on a gallery‚Äôs images. * If you have installed the WP Mobile Detect plugin, don‚Äôt forget to activate the corresponding option so images may display in a lighter format when on mobile devices.
 
 
 == Installation ==
