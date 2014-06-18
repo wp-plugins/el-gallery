@@ -19,7 +19,7 @@ EL-Gallery is an elegant untra-lightweight javascript & css gallery replacement 
 
 == Description ==
 
-[EL-Gallery](ericlowry.fr/en/development/#el-gallery "EL-Gallery, the lightweight wordpress gallery") will simply adapt to your website’s width without any fuss or hours of configuration.
+[EL-Gallery](http://ericlowry.fr/en/development/#el-gallery "EL-Gallery, the lightweight wordpress gallery") will simply adapt to your website’s width without any fuss or hours of configuration.
 
 A few simple options are at your disposal if you wish, but the plugin will work perfectly well as soon as it is installed.
 
