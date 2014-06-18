@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: EL-Gallery
-Plugin URI: http://ericlowry.fr/
+Plugin URI: http://wordpress.org/plugins/el-gallery/
 Description: An extremely simplistic gallery replacement plugin.
 Version: 0.92
 Author: Eric Lowry
