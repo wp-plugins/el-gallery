@@ -41,14 +41,16 @@ Once installed, you will find the configuration menu for EL-Gallery in the “Ap
 
 There you will be able to modify the duration of each slide as well as a few other functions:
 
-* EL-Gallery uses responsive design, and you may wish to choose a specific page width at which the thumbnails will go from 8 per line to 5 per line. * You may wish to disable the links on a gallery’s images. * If you have installed the WP Mobile Detect plugin, don’t forget to activate the corresponding option so images may display in a lighter format when on mobile devices.
+* EL-Gallery uses responsive design, and you may wish to choose a specific page width at which the thumbnails will go from 8 per line to 5 per line.
+* You may wish to disable the links on a gallery’s images.
+* If you have installed the WP Mobile Detect plugin, don’t forget to activate the corresponding option so images may display in a lighter format when on mobile devices.
 
 
 == Installation ==
 
 1. Download the plugin.
 2. Simply go under the the *Plugins* menu in WordPress, then click on Add new and select the plugin's .zip file
-3. Alternatively you can upload the 'el-gallery' folder to the */wp-content/plugins/* directory.
+3. Alternatively you can upload the *el-gallery* folder to the */wp-content/plugins/* directory.
 4. Finally, activate the plugin through the 'Plugins' menu in WordPress.
 
 Your gallery shortcodes will automatically be updated to EL-Galleries !
@@ -56,7 +58,10 @@ Your gallery shortcodes will automatically be updated to EL-Galleries !
 == Changelog ==
 
 -> Version 0.92 :
-* Added options menu with : slideshow speed, thumbnail number switch width, togglable image links, togglable "WP Mobile Detect" compatibility. * Fixed javascript so multiple galleries can be displayed on the same page. * Added translation system (with French translation onboard). * Optimized php (repeated elements were passed into functions).
+* Added options menu with : slideshow speed, thumbnail number switch width, togglable image links, togglable "WP Mobile Detect" compatibility.
+* Fixed javascript so multiple galleries can be displayed on the same page.
+* Added translation system (with French translation onboard).
+* Optimized php (repeated elements were passed into functions).
 -> Version 0.91 :
 * Images use absolute positioning, not floats (allows for smooth transitions).
 -> Version 0.9 :
