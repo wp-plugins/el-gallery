@@ -24,7 +24,6 @@ EL-Gallery is an elegant untra-lightweight javascript & css gallery replacement 
 A few simple options are at your disposal if you wish, but the plugin will work perfectly well as soon as it is installed.
 
 = Details =
-
 I am not a professional developer, but there were no plugins that were both simple enough and could adapt to responsive design. This is why I chose to code this plugin.
 
 EL-Gallery should function properly on any browser that supports both CSS3 and javascript.
@@ -36,7 +35,6 @@ This plugin is designed to function on any type of machine, and for it to best f
 EL-Gallery is currently available in both English and French.
 
 = Configuration =
-
 Once installed, you will find the configuration menu for EL-Gallery in the “Appearance” section of  your wordpress administration page.
 
 There you will be able to modify the duration of each slide as well as a few other functions:
@@ -57,14 +55,16 @@ Your gallery shortcodes will automatically be updated to EL-Galleries !
 
 == Changelog ==
 
--> Version 0.92 :
+= Version 0.92 =
 * Added options menu with : slideshow speed, thumbnail number switch width, togglable image links, togglable "WP Mobile Detect" compatibility.
 * Fixed javascript so multiple galleries can be displayed on the same page.
 * Added translation system (with French translation onboard).
 * Optimized php (repeated elements were passed into functions).
--> Version 0.91 :
+
+= Version 0.91 =
 * Images use absolute positioning, not floats (allows for smooth transitions).
--> Version 0.9 :
+
+= Version 0.9 =
 * Initial release.
 
 == Donations ==
