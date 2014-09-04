@@ -23,9 +23,6 @@ figure.el_gallery i.fa div {
 figure.el_gallery .el_gallery-slideshow_wrapper .el_nav {
 	display: none;
 }
-figure.el_gallery .el_gallery-slideshow_wrapper .el_nav.loading a {
-	display: none;
-}
 figure.el_gallery .el_gallery-slideshow_wrapper .el_nav a {
 	position: absolute;
 	top: 0;
@@ -121,6 +118,9 @@ figure.el_gallery .el_gallery-slideshow_wrapper a.el_pause:active {
 	transition: .2s;
     opacity: .8;
 	filter: alpha(opacity=80);
+}
+figure.el_gallery .el_gallery-slideshow_wrapper .el_nav.loading a {
+	display: none;
 }
 figure.el_gallery .el_gallery-slideshow_wrapper img {
 	display: none;
