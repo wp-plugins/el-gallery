@@ -23,6 +23,9 @@ figure.el_gallery i.fa div {
 figure.el_gallery .el_gallery-slideshow_wrapper .el_nav {
 	display: none;
 }
+figure.el_gallery .el_gallery-slideshow_wrapper .el_nav.loading a {
+	display: none;
+}
 figure.el_gallery .el_gallery-slideshow_wrapper .el_nav a {
 	position: absolute;
 	top: 0;
