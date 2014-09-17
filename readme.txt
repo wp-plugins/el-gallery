@@ -8,8 +8,8 @@ Author URI: http://ericlowry.fr/
 Author: Eric Lowry
 Requires at least: 3.5
 Tested up to: 4.0
-Stable tag: 1.2.5
-Version: 1.2.5
+Stable tag: 1.2.6
+Version: 1.2.6
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -61,7 +61,11 @@ Your gallery shortcodes will automatically be updated to EL-Galleries !
 
 == Changelog ==
 
-= Version 1.2.4 =
+= Version 1.2.6 =* New color selection system on most browsers.
+* Minor bugfixes.
+* Fixed translations.
+
+= Version 1.2.5 =
 * Simpler admin interface.
 * More Font Awsome loading icon.
 * Various color corrections.
