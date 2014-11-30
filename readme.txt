@@ -50,7 +50,7 @@ There you will be able to modify the duration of each slide as well as a few oth
 
 = Contributors =
 
-*Andrew Kurtis for [WebHostingHub](http://webhostinghub.com).
+* Andrew Kurtis for [WebHostingHub](http://webhostinghub.com).
 
 == Installation ==
 
